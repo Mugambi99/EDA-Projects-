@@ -35,5 +35,10 @@ and shape policy.
 
 **The average C02 emission per person by food category among five countries (Kenya, Uganda, Tanzania, Rwanda and Ethiopia) located in East Africa.**
 
+The report indicates that Kenya, Tanzania and Uganda accounted for a large propotion of Co2 emissions in East Africa.
+Kenya having the largest metric of emission and the least being Rwanda
+It important to note that Ethiopia and Rwanda over the recent years has a faster growth rates recorded than other countries in East Africa.
+Kenya is a more industrialised country majoring in the top four emmitters namely transport, electricity, constrution and non metal manufacturing hence having high Co2 emissions
+
 <img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Food%20Carbon%20Footprint/Plots/Average%20Co2%20emission%20East%20Africa.png" alt="Image description" width="500" height="400">
 
