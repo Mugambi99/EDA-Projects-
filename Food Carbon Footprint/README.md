@@ -12,6 +12,17 @@ the future generations. The most effective way of doing this is to stay informed
 the major contributors to this 21st century menace is, and thereby make informed choices 
 and shape policy. 
 
+## What creates a food's carbon footprint?
+- Production – the fertilisers, pesticides, animal feed, water and other materials (like electricity) used to grow or raise food
+
+- Processing – harvesting crops and dispatching animals, or the energy used in creating secondary foods such as dairy products
+
+- Transportation – this includes from farms to processing plants, then on to retail units and finally from the shops to your home
+
+- Storage and cooking – the electricity involved in refrigerating and then cooking the food you’ve bought
+
+- Waste – this is both the food you throw away and unsold food disposed of by retailers
+
 **We are going to be tackling the following questions;**
 - The average C02 emission per person by food category among five countries (Kenya, Uganda, Tanzania, Rwanda and Ethiopia) located in East Africa.
 - Highlight the marked difference between consumption and emissions in certain food product of your choice
@@ -21,4 +32,8 @@ and shape policy.
 - Top 10 Countries with highest emissions. Choose the appropriate visual type. 
 - Using the data to write a 500 words minimum of insights and the story behind the exploration.
 - Alternatively compile a set of slides with your insights.
+
+**The average C02 emission per person by food category among five countries (Kenya, Uganda, Tanzania, Rwanda and Ethiopia) located in East Africa.**
+
+<img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Food%20Carbon%20Footprint/Plots/Average%20Co2%20emission%20East%20Africa.png" alt="Image description" width="500" height="400">
 
