@@ -42,3 +42,8 @@ Kenya is a more industrialised country majoring in the top four emmitters namely
 
 <img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Food%20Carbon%20Footprint/Plots/Average%20Co2%20emission%20East%20Africa.png" alt="Image description" width="500" height="400">
 
+**The food consumption of animal and non-animal products and the impact on carbon footprint.**
+
+There is no doubt that animal products eg. meat – beef in particular – makes an unsurpassable contribution to the planet’s greenhouse gas emissions. It also devours more land and water and causes more environmental damage than any other single food product.
+
+<img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Food%20Carbon%20Footprint/Plots/Animal%20and%20Non-Animal%20Products.png" alt="Image description" width="500" height="400">
