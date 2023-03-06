@@ -72,4 +72,4 @@ Kenya is a more industrialised country majoring in the top four emmitters namely
 
 > - Reduce Meat Consumption: Meat production generates significant carbon emissions. By reducing meat consumption, we can significantly reduce the carbon footprint of our food. This can be done by consuming smaller portions of meat, choosing leaner cuts of meat, and replacing meat with plant-based alternatives
 
-> As a few alternatives
+
