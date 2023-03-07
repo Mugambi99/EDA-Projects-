@@ -67,5 +67,7 @@ That being said, it is worth noting that younger riders have historically perfor
 
 >In fact, France has won the Tour de France more times than any other country, with a total of 36 victories by French riders. Some of the most famous French winners include Jacques Anquetil, Bernard Hinault, and Laurent Fignon.
 
+<img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Sports%20Analytics/Plots/Country%20Wins.png" alt="Image description" width="500" height="400">
+
 >However, it's worth noting that the Tour de France is a highly competitive race and winning requires a combination of skill, strategy, teamwork, and luck. Riders from other countries have also had great success in the race, including cyclists from Belgium, Spain, Italy, and the United States, among others. In recent years, the race has become more international, with winners from countries such as Great Britain, Colombia, and Slovenia, indicating that success in the Tour de France is not limited to any one country or nationality.
 <img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Sports%20Analytics/Plots/Number%20of%20Wins%20per%20Country%20per%20Decade.png" alt="Image description" width="500" height="400">
