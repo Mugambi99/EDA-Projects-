@@ -57,4 +57,15 @@ Here are some of the great technologies used in Tour de France:
 
 **What relationship is there between a winners age and the number of stages led.**
 
+>It is evident that young people have a certan cutting edge when it comes to the tournament because they have advantages such as greater stamina and recovery ability, experience and strategic decision-making are also key factors in winning the race.
+That being said, it is worth noting that younger riders have historically performed well in the Tour de France. Many past winners, such as Egan Bernal, Chris Froome, and Alberto Contador, won the race in their 20s. However, there have also been several winners who were older, such as Cadel Evans who won at age 34 and Chris Horner who won at age 41. 
 <img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Sports%20Analytics/Plots/Age%20group%20with%20the%20most%20wins.png" alt="Image description" width="500" height="400">
+
+
+**Sort by the most recent winning and find the winner's nationality and display the top.**
+>France has a strong tradition in road cycling and has produced many successful professional cyclists throughout history. This, coupled with the fact that the Tour de France is the most prestigious and well-known cycling race in the world, has led to French riders winning the race numerous times.
+
+>In fact, France has won the Tour de France more times than any other country, with a total of 36 victories by French riders. Some of the most famous French winners include Jacques Anquetil, Bernard Hinault, and Laurent Fignon.
+
+>However, it's worth noting that the Tour de France is a highly competitive race and winning requires a combination of skill, strategy, teamwork, and luck. Riders from other countries have also had great success in the race, including cyclists from Belgium, Spain, Italy, and the United States, among others. In recent years, the race has become more international, with winners from countries such as Great Britain, Colombia, and Slovenia, indicating that success in the Tour de France is not limited to any one country or nationality.
+<img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Sports%20Analytics/Plots/Number%20of%20Wins%20per%20Country%20per%20Decade.png" alt="Image description" width="500" height="400">
