@@ -7,7 +7,7 @@ The race was first held in 1903 and has since become one of the most prestigious
 
 The Tour de France is organized by the Amaury Sport Organisation (ASO) and is typically broadcast live on television and online. The race has a rich history and is known for its traditions and customs, such as the yellow jersey worn by the race leader, the polka dot jersey for the best climber, and the green jersey for the best sprinter. The race also features a team competition and awards various other prizes for performance in specific stages or categories.
 
-<img align="left" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/58b8344c59cc684cb6f4f08a/1564484213710-XBYRVDZF2B3UR8TNNRR7/TourDeFrance.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/58b8344c59cc684cb6f4f08a/1564484213710-XBYRVDZF2B3UR8TNNRR7/TourDeFrance.gif">
 
 ##  What's the tournament all about ?
 
