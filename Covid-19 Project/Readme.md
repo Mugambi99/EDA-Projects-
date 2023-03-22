@@ -26,3 +26,13 @@ The COVID-19 pandemic has had a significant impact on countries around the world
 >Demographic Information: The dataset provides information on the age and gender distribution of COVID-19 cases, allowing for an analysis of the demographic factors that may be associated with the disease. By analyzing the data, it is possible to identify the age and gender groups that are most susceptible to the disease and the factors that may contribute to this susceptibility.
 
 **Overall, the COVID-19 dataset provides a wealth of information that can be used to gain insights into the spread and impact of the disease and inform public health policies and interventions. The use of statistical techniques and data visualization can help to identify patterns and relationships in the data and provide valuable insights into the factors that contribute to the spread and impact of the disease.**
+
+### CAPITAL CITIES AFFECTED 
+
+<img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Covid-19%20Project/Plots/Global%20cases.png" alt="Image description" width="1500" height="500">
+
+We can see that Covid spread globally. We can explore some of the way the virus spread in such a short time:
+1. Global travel: As the virus emerged in China and started spreading, people were traveling around the world, unknowingly spreading the virus with them. With millions of people traveling by air, sea, and land every day, the virus quickly spread to different parts of the world.
+2. Asymptomatic transmission: People infected with the virus can spread it even if they are not showing symptoms. This made it difficult to detect and contain the virus in the early stages, allowing it to spread unnoticed in many parts of the world.
+3. Highly infectious: COVID-19 is highly infectious, with each infected person capable of infecting multiple others. This allowed the virus to spread rapidly in crowded settings such as cities, workplaces, and public transport systems.
+4. Delayed response: Some countries did not take adequate measures to contain the virus in the early stages of the pandemic, leading to large-scale outbreaks. In other cases, countries were slow to recognize the severity of the situation, and delayed implementing measures to slow the spread of the virus.
