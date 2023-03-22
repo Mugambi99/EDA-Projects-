@@ -69,5 +69,15 @@ Europe was one of the regions that was hit hard by the COVID-19 pandemic, with a
 
 3. Delayed response: In some cases, there was a delay in implementing measures to contain the spread of the virus, which allowed it to spread more widely and rapidly.
 
-4.Strained healthcare systems: The high number of cases and hospitalizations put a strain on healthcare systems in Europe, which in some cases were overwhelmed and unable to provide adequate care to all patients.
+4. Strained healthcare systems: The high number of cases and hospitalizations put a strain on healthcare systems in Europe, which in some cases were overwhelmed and unable to provide adequate care to all patients.
 
+### CONCLUSION 
+In conclusion, COVID-19 has had a profound impact on the world, affecting nearly every aspect of life, including public health, the economy, and social interactions. The pandemic has challenged governments, healthcare systems, and individuals around the world to respond quickly and adapt to the evolving situation.
+
+Despite the significant challenges posed by COVID-19, there have been some measures that have proven effective in lowering its impact. One of the most important measures has been vaccination, which has been shown to significantly reduce the risk of severe illness, hospitalization, and death from COVID-19. In addition to vaccination, other measures such as wearing masks, practicing social distancing, and good hand hygiene have also been effective in reducing the spread of the virus.
+
+Effective public health responses, including widespread testing and contact tracing, have also played a critical role in containing the spread of the virus. Governments around the world have implemented various measures, such as lockdowns and travel restrictions, to control the spread of the virus and protect public health.
+
+However, it is important to note that the COVID-19 pandemic is not over, and new variants of the virus continue to emerge. It will be important for individuals, governments, and healthcare systems to remain vigilant and adaptable to ensure that the pandemic can be controlled and ultimately brought to an end.
+### TOTAL COVID-19 CASES BY COUNTRY
+<img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Covid-19%20Project/Plots/Total%20COVID-19%20Cases%20by%20Country.png" alt="Image description" width="1200" height="800">
