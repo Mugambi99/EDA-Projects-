@@ -27,7 +27,7 @@ The COVID-19 pandemic has had a significant impact on countries around the world
 
 **Overall, the COVID-19 dataset provides a wealth of information that can be used to gain insights into the spread and impact of the disease and inform public health policies and interventions. The use of statistical techniques and data visualization can help to identify patterns and relationships in the data and provide valuable insights into the factors that contribute to the spread and impact of the disease.**
 
-### CAPITAL CITIES AFFECTED 
+### CITIES GLOBALLY AFFECTED BY COVID BASED ON LOCATION 
 
 <img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Covid-19%20Project/Plots/Global%20cases.png" alt="Image description" width="1500" height="600">
 
@@ -52,5 +52,22 @@ In conclusion, the data presented in the graph shows the magnitude of the COVID-
 
 ### CASES PER CONTINENT
 <img src="https://github.com/Mugambi99/EDA-Projects-/blob/main/Covid-19%20Project/Plots/Cases%20per%20Continent.png" alt="Image description" width="700" height="600">
+From the graph it is evident the impact of COVID-19 in Africa has been relatively lower compared to other parts of the world, although there has been significant variation among countries within the continent. Some factors that may have contributed to the lower impact of the pandemic in Africa include:
 
+1. Age distribution: The population in Africa is relatively young, with a lower percentage of elderly individuals who are more vulnerable to severe illness and death from COVID-19.
+
+2. Pre-existing immunity: Some researchers have suggested that exposure to other diseases, such as malaria and tuberculosis, may provide some level of immunity against COVID-19.
+
+3. Early response: Many countries in Africa implemented measures to contain the spread of the virus early on, before it had a chance to spread widely. This included measures such as border closures, lockdowns, and widespread testing and contact tracing.
+
+**It is important to note that the lower impact of the pandemic in Africa does not mean that the continent has been spared from the devastating consequences of the pandemic. The pandemic has had significant economic and social impacts in Africa, particularly for vulnerable populations such as those living in poverty or with limited access to healthcare.** 
+
+Europe was one of the regions that was hit hard by the COVID-19 pandemic, with a high number of cases and deaths. There were several factors that contributed to the high death toll in Europe, including:
+1. High population density: Many countries in Europe have densely populated urban areas, which made it difficult to contain the spread of the virus.
+
+2. Large number of elderly people: Europe has a relatively high proportion of elderly people, who are more vulnerable to severe illness and death from COVID-19.
+
+3. Delayed response: In some cases, there was a delay in implementing measures to contain the spread of the virus, which allowed it to spread more widely and rapidly.
+
+4.Strained healthcare systems: The high number of cases and hospitalizations put a strain on healthcare systems in Europe, which in some cases were overwhelmed and unable to provide adequate care to all patients.
 
